@@ -1,4 +1,4 @@
-# Minha O.S. PHP
+# BrasilCash PHP
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/AirtonSouza10/BrasilCash-JavaWeb-/blob/main/licence) 
 
 # Sobre o projeto
